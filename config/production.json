@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://umar123:umar123@devconnector.oppvm.mongodb.net/devconnector?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "a1a45fec01a1c425dbd3",
-    "githubSecret": "81d9cab8369a61af4d43ee3c0d86894f6417f102"
-}
